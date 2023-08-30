@@ -1,5 +1,4 @@
 import { screen } from '@testing-library/react';
-import { toBeInTheDocument } from '@testing-library/jest-dom/matchers';
 import App from '../App';
 import renderWithRouter from '../renderWithRouter';
 
